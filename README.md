@@ -1,6 +1,6 @@
 # Welcome!
 
-Hello and welcome to the official Project: SMP server repository!
+**Welcome to The Project: SMP's Guide To Everything That You May Have Not Known \(TPSMPGTETYMHNK or just TPSMP for short\)**
 
 ## What is Project: SMP?
 
