@@ -1,10 +1,26 @@
 # FAQ
 
-## Can I become who I want to be?
+## Is this a Bedrock Server?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+No, _Project: SMP_ is a **Java Edition** server, and we have **no plans to add Bedrock support**.
 
-## Have you had a chance to answer the previous question?
+## Can I use any mods on the server?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Of course **yes**! You are allowed to use _any client-sided mod_ on the server for as long as it **doesn't give unfair advantage against other players**.
+
+## Which version should I use?
+
+Connect using **1.16.5** or 1.16.4. We _don't_ and we ****_won't_ support **older versions**.
+
+## Is this server cracked? \(offline-mode = false\)
+
+_**No, and it will never be.**_
+
+## Hey Admin I have a suggestion...
+
+_Don't do it like that_, use **\#suggestions** channel on our **Discord server**
+
+## YOU HAVE A DISCORD SERVER???
+
+**Yep, the invite is** [**here**](https://discord.io/project-smp)\*\*\*\*
 
